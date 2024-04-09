@@ -26,3 +26,7 @@
 
 #### Example:
 GET /forecast-summary?city=London
+
+# Fronted
+![image](https://github.com/abhiVerma44/DICE_Assignment/assets/103949784/65f5c774-828f-4cbd-8bb7-e26e3d3c8d62)
+
